@@ -1,0 +1,6 @@
+fastapi==0.141.1
+flagembedding==1.4.0
+pydantic==2.13.1
+pydantic-core==2.46.1
+pydantic-settings==2.13.1
+uvicorn==0.51.0
